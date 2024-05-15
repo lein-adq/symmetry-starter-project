@@ -30,11 +30,13 @@ A great idea I have about this project was to implement Firebase Authentication,
 
 ## 5. Proof of the project
 
-I would have loved to meet all the requested requirements. Since I worked on reimplementing the base project, I will also add some of its features.
+I would have loved to meet all the requested requirements. Since I worked on reimplementing the base project, I will also add some of its features. (Problem with video embedding, just adding the links).
 
-<video controls src="https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777065/_temp/fwfuxawyl7iuwivcgmm7.mp4" title="Demo News App"></video>
+https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777065/_temp/fwfuxawyl7iuwivcgmm7.mp4
 
-<video controls src="https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777064/_temp/zbimwjqhvphvdyenfx5f.mp4" title="Firebase reflected changes"></video>
+
+https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777064/_temp/zbimwjqhvphvdyenfx5f.mp4
+
 
 ## 6. Overdelivery
 
