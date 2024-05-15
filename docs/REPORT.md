@@ -32,10 +32,10 @@ A great idea I have about this project was to implement Firebase Authentication,
 
 I would have loved to meet all the requested requirements. Since I worked on reimplementing the base project, I will also add some of its features. (Problem with video embedding, just adding the links).
 
-https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777065/_temp/fwfuxawyl7iuwivcgmm7.mp4
+[Demo of the project](https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777065/_temp/fwfuxawyl7iuwivcgmm7.mp4)
 
 
-https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777064/_temp/zbimwjqhvphvdyenfx5f.mp4
+[Firestore changes reflected](https://res.cloudinary.com/dt2xucpq2/video/upload/v1715777064/_temp/zbimwjqhvphvdyenfx5f.mp4)
 
 
 ## 6. Overdelivery
