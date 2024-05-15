@@ -103,7 +103,7 @@ class _AddArticleFormState extends State<AddArticleForm> {
                     BlocProvider.of<RemoteArticlesBloc>(context)
                         .add(AddArticle(article));
                     ScaffoldMessenger.of(context).showSnackBar(
-                      const SnackBar(content: Text('Processing Data')),
+                      const SnackBar(content: Text('Article uploaded successfully!')),
                     );
                   }
                 },
